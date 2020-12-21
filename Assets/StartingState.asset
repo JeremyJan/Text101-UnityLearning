@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f679688c58ba349fd84d2693fd042208, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'You open your eyes and begin to notice nothing but darkness. You start
+    to freak
+
+    out. "Am I dead?! Where am I." You frantically start move your limps and notice
+
+    two shining objects. One a window with nothing but a space explosion and a door
+
+    with an ominous feeling. A certain decision and an uncertain decision.
+
+
+    1) Walk towards the window.
+
+    2) Walk towards the door.'
